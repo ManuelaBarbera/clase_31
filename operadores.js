@@ -44,5 +44,16 @@ console.log (lado1 + lado2 + lado3);
 let altura = 10;
 let base = 4;
 
-console.log (altura + base)
-console.log (altura * base)
+console.log (altura + base);
+console.log (altura * base);
+
+//Ejercicio 33//
+
+let cantidadDePersonas = 100;
+
+cantidadDePersonas+= 5
+console.log("la cantidad de personas es: " + cantidadDePersonas)
+cantidadDePersonas-= 3
+console.log("la cantidad de personas es: " + cantidadDePersonas)
+cantidadDePersonas*= 2
+console.log("la cantidad de personas es: " + cantidadDePersonas)
